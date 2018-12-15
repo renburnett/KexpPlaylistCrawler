@@ -135,3 +135,192 @@ JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, l
 1544746552802	Marionette	INFO	Stopped listening on port 49567
 1544746554225	Marionette	INFO	Stopped listening on port 49633
 1544746555587	Marionette	INFO	Stopped listening on port 50024
+1544746745809	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cs/xp2w0wks1k58xckkb01hw33c0000gn/T/rust_mozprofile.PB1FqcrGG99v"
+1544746748324	Marionette	INFO	Listening on port 51111
+1544746748385	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544746749501	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cs/xp2w0wks1k58xckkb01hw33c0000gn/T/rust_mozprofile.yMdaorX7PvBI"
+1544746751697	Marionette	INFO	Listening on port 51177
+1544746751770	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 147: unreachable code after return statement
+1544746765454	Marionette	INFO	Stopped listening on port 51177
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1544746774865	Marionette	INFO	Stopped listening on port 51111
+1544746835658	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cs/xp2w0wks1k58xckkb01hw33c0000gn/T/rust_mozprofile.U7sLa5HVct8c"
+1544746837976	Marionette	INFO	Listening on port 51640
+1544746838042	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544746839158	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cs/xp2w0wks1k58xckkb01hw33c0000gn/T/rust_mozprofile.KKDAqw35aie9"
+1544746841487	Marionette	INFO	Listening on port 51699
+1544746841545	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 147: unreachable code after return statement
+1544746855637	Marionette	INFO	Stopped listening on port 51699
+1544746966138	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cs/xp2w0wks1k58xckkb01hw33c0000gn/T/rust_mozprofile.G7qmMIuhix3K"
+1544746968379	Marionette	INFO	Listening on port 52327
+1544746968428	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544746969532	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cs/xp2w0wks1k58xckkb01hw33c0000gn/T/rust_mozprofile.WlNVbYBGqa7g"
+1544746971740	Marionette	INFO	Listening on port 52382
+1544746971808	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 147: unreachable code after return statement
+1544747022028	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cs/xp2w0wks1k58xckkb01hw33c0000gn/T/rust_mozprofile.ccMP7hxz1fMH"
+1544747024743	Marionette	INFO	Listening on port 52694
+1544747024809	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544747025917	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cs/xp2w0wks1k58xckkb01hw33c0000gn/T/rust_mozprofile.rvb7QMvdlfi5"
+1544747028165	Marionette	INFO	Listening on port 52761
+1544747028212	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 147: unreachable code after return statement
+1544747072750	Marionette	INFO	Stopped listening on port 51640
+1544747074399	Marionette	INFO	Stopped listening on port 52327
+1544747076118	Marionette	INFO	Stopped listening on port 52382
+1544747078283	Marionette	INFO	Stopped listening on port 52694
+1544747080329	Marionette	INFO	Stopped listening on port 52761
+1544844286305	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cs/xp2w0wks1k58xckkb01hw33c0000gn/T/rust_mozprofile.jehauZGFjxWh"
+1544844289757	Marionette	INFO	Listening on port 53280
+1544844289850	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544844290982	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cs/xp2w0wks1k58xckkb01hw33c0000gn/T/rust_mozprofile.eGOYIugCSdP2"
+1544844293246	Marionette	INFO	Listening on port 53338
+1544844293272	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/driver.js :: GeckoDriver.prototype.maximizeWindow/windowSizeChange/< :: line 3055"  data: no]
+GeckoDriver.prototype.maximizeWindow/windowSizeChange/<@chrome://marionette/content/driver.js:3055:9
+evalFn@chrome://marionette/content/sync.js:111:7
+
+1544844299803	Marionette	INFO	Stopped listening on port 53280
+1544844301327	Marionette	INFO	Stopped listening on port 53338
+1544844412243	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cs/xp2w0wks1k58xckkb01hw33c0000gn/T/rust_mozprofile.PctkiXZEe1Jp"
+1544844414406	Marionette	INFO	Listening on port 53385
+1544844414507	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544844415597	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cs/xp2w0wks1k58xckkb01hw33c0000gn/T/rust_mozprofile.NfakoMVRdBcF"
+1544844417656	Marionette	INFO	Listening on port 53430
+1544844417761	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 147: unreachable code after return statement
+1544844430447	Marionette	INFO	Stopped listening on port 53430
+1544844542229	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cs/xp2w0wks1k58xckkb01hw33c0000gn/T/rust_mozprofile.ig6JqnrqYJF1"
+1544844544419	Marionette	INFO	Listening on port 53529
+1544844544520	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544844545611	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cs/xp2w0wks1k58xckkb01hw33c0000gn/T/rust_mozprofile.MumI181dqhoM"
+1544844547718	Marionette	INFO	Listening on port 53573
+1544844547812	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 147: unreachable code after return statement
+1544844559779	Marionette	INFO	Stopped listening on port 53573
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x160011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1544844617716	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cs/xp2w0wks1k58xckkb01hw33c0000gn/T/rust_mozprofile.6pNiEJQCyzIp"
+1544844619996	Marionette	INFO	Listening on port 53669
+1544844620109	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544844621232	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cs/xp2w0wks1k58xckkb01hw33c0000gn/T/rust_mozprofile.q44bpuaR9ydL"
+1544844623420	Marionette	INFO	Listening on port 53715
+1544844623518	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 147: unreachable code after return statement
+1544844636200	Marionette	INFO	Stopped listening on port 53715
+1544844667210	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cs/xp2w0wks1k58xckkb01hw33c0000gn/T/rust_mozprofile.PerwRAgsZ1v6"
+1544844669478	Marionette	INFO	Listening on port 53802
+1544844669496	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544844670641	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cs/xp2w0wks1k58xckkb01hw33c0000gn/T/rust_mozprofile.4Aeveil7Du8p"
+1544844672821	Marionette	INFO	Listening on port 53847
+1544844672925	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 147: unreachable code after return statement
+1544844688067	Marionette	INFO	Stopped listening on port 53847
+1544844831623	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cs/xp2w0wks1k58xckkb01hw33c0000gn/T/rust_mozprofile.tZEJuW9S9Wf1"
+1544844833866	Marionette	INFO	Listening on port 53948
+1544844833905	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544844835002	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cs/xp2w0wks1k58xckkb01hw33c0000gn/T/rust_mozprofile.eOJjXiXsc4ID"
+1544844837132	Marionette	INFO	Listening on port 53992
+1544844837187	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-1975883-17, line 147: unreachable code after return statement
+1544844850169	Marionette	INFO	Stopped listening on port 53992
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1544844934037	Marionette	INFO	Stopped listening on port 53385
+1544844936782	Marionette	INFO	Stopped listening on port 53529
+1544844938911	Marionette	INFO	Stopped listening on port 53669
+1544844941449	Marionette	INFO	Stopped listening on port 53948
+1544844943582	Marionette	INFO	Stopped listening on port 53802
